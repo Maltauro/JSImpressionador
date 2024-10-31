@@ -2,6 +2,7 @@
 // M ao lado do arquivo, indica que o arquivo foi modificado, modified. Ainda precisa sofrer commit
 // A ao lado do arquivo, indica que o arquivo foi adicionado, add. Ainda precisa sofrer commit
 // Ou seja, precisa rodar no terminal git add ./turboLogger.js
+// Adicionar mais de um arquivo de uma vez, rode git add .
 // git status ajuda a ver o que está acontecendo no git
 
 // Adicionar arquivo package.json, no terminal digite npm init
